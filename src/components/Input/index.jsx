@@ -8,12 +8,11 @@ const variants = {
     white_A700: "bg-white-A700 text-bluegray-200",
   },
 };
-const shapes = { square: "rounded-none", round: "rounded-md" };
+const shapes = { round: "rounded-md", square: "rounded-none" };
 const sizes = {
-  xs: "pb-[7px] pt-[9px] px-[7px]",
-  sm: "pl-[3px] pr-2.5 py-2.5",
-  md: "pb-4 pt-[17px] px-4",
-  lg: "pb-3 pt-[18px] px-3",
+  xs: "pl-[3px] pr-2.5 py-2.5",
+  sm: "pb-4 pt-[17px] px-4",
+  md: "pb-3 pt-[18px] px-3",
 };
 
 const Input = React.forwardRef(
@@ -30,8 +29,8 @@ const Input = React.forwardRef(
       prefix,
       suffix,
       onChange,
-      shape = "round",
-      size = "md",
+      shape = "square",
+      size = "xs",
       variant = "fill",
       color = "white_A700",
       ...restProps
@@ -75,8 +74,8 @@ Input.propTypes = {
   name: PropTypes.string,
   placeholder: PropTypes.string,
   type: PropTypes.string,
-  shape: PropTypes.oneOf(["square", "round"]),
-  size: PropTypes.oneOf(["xs", "sm", "md", "lg"]),
+  shape: PropTypes.oneOf(["round", "square"]),
+  size: PropTypes.oneOf(["xs", "sm", "md"]),
   variant: PropTypes.oneOf(["fill"]),
   color: PropTypes.oneOf(["gray_50", "white_A700"]),
 };

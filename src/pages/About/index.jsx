@@ -33,7 +33,7 @@ const AboutPage = () => {
               </Text>
               <Text
                 className="leading-[28.00px] text-bluegray-600 text-center text-lg w-[74%] sm:w-full"
-                size="txtChivoRegular18Bluegray600"
+                size="txtChivoRegular18"
               >
                 Simple plans that grow with your business. No contracts. No
                 setup fees.
@@ -63,7 +63,7 @@ const AboutPage = () => {
             <div className="flex flex-col gap-[50px] items-center justify-start mt-[50px] w-full">
               <Text
                 className="leading-[28.00px] text-bluegray-600 text-lg"
-                size="txtChivoRegular18Bluegray600"
+                size="txtChivoRegular18"
               >
                 <>
                   Growit provides agencies and marketers with dashboards,
@@ -181,13 +181,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-4 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Diane Davis
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       CEO and CO Founder
                     </Text>
@@ -204,13 +204,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-3 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Jonas Delonge
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Vice President
                     </Text>
@@ -227,13 +227,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-3.5 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Samantha Ruby
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Director of Marketing
                     </Text>
@@ -250,13 +250,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-[13px] items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Anastasya
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Sr Creative Designer
                     </Text>
@@ -273,13 +273,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-3.5 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Lizy Renata
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Sr Software Engineer
                     </Text>
@@ -296,13 +296,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-3.5 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Ben Washington
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Sr Front End Engineer
                     </Text>
@@ -319,13 +319,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-3 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Jimmy Neutron
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Account Executive
                     </Text>
@@ -342,13 +342,13 @@ const AboutPage = () => {
                   <div className="flex flex-col gap-3 items-center justify-start">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Antony Velich
                     </Text>
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Account Executive
                     </Text>
@@ -364,13 +364,13 @@ const AboutPage = () => {
                 <div className="flex flex-col gap-3.5 items-center justify-start">
                   <Text
                     className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Spencer Roberto
                   </Text>
                   <Text
                     className="text-bluegray-600 text-lg"
-                    size="txtChivoRegular18Bluegray600"
+                    size="txtChivoRegular18"
                   >
                     Product Support Specialist
                   </Text>
@@ -442,8 +442,6 @@ const AboutPage = () => {
                   className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                   wrapClassName="sm:flex-1 sm:mt-0 my-1.5 w-[61%] sm:w-full"
                   type="email"
-                  shape="square"
-                  size="sm"
                 ></Input>
                 <Button
                   className="cursor-pointer min-w-[150px] text-base text-center"

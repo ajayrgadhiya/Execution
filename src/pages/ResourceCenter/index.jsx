@@ -25,7 +25,7 @@ const ResourceCenterPage = () => {
                 </Text>
                 <Text
                   className="leading-[28.00px] text-bluegray-600 text-lg w-[90%] sm:w-full"
-                  size="txtChivoRegular18Bluegray600"
+                  size="txtChivoRegular18"
                 >
                   Our books, guides, and others have helped thousands of your
                   peers get better at their business
@@ -38,9 +38,7 @@ const ResourceCenterPage = () => {
                     placeholder="Search resources"
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="sm:flex-1 mb-1 sm:mt-0 mt-[7px] w-[63%] sm:w-full"
-                    shape="square"
                     color="gray_50"
-                    size="sm"
                   ></Input>
                   <Button
                     className="cursor-pointer flex items-center justify-center min-w-[150px]"
@@ -76,7 +74,7 @@ const ResourceCenterPage = () => {
                 <div className="flex flex-col gap-4 items-start justify-start w-full">
                   <Text
                     className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                    size="txtChivoBold22"
+                    size="txtChivoBold22WhiteA700"
                   >
                     Guides{" "}
                   </Text>
@@ -100,7 +98,7 @@ const ResourceCenterPage = () => {
                 <div className="flex flex-col gap-3 items-start justify-start w-full">
                   <Text
                     className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                    size="txtChivoBold22"
+                    size="txtChivoBold22WhiteA700"
                   >
                     Blog
                   </Text>
@@ -124,7 +122,7 @@ const ResourceCenterPage = () => {
                 <div className="flex flex-col gap-4 items-start justify-start w-full">
                   <Text
                     className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                    size="txtChivoBold22"
+                    size="txtChivoBold22WhiteA700"
                   >
                     Webinars
                   </Text>
@@ -148,7 +146,7 @@ const ResourceCenterPage = () => {
                 <div className="flex flex-col gap-4 items-start justify-start w-full">
                   <Text
                     className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                    size="txtChivoBold22"
+                    size="txtChivoBold22WhiteA700"
                   >
                     Customer Stories
                   </Text>
@@ -207,7 +205,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[28.00px] text-bluegray-600 text-lg w-full"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Guide enables you to provide end users with a complete
                       self-service support option and empowers agents to better
@@ -242,7 +240,7 @@ const ResourceCenterPage = () => {
                       </Text>
                       <Text
                         className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                        size="txtChivoBold22Gray900"
+                        size="txtChivoBold22"
                       >
                         Advance your product analytics strategy
                       </Text>
@@ -271,7 +269,7 @@ const ResourceCenterPage = () => {
                       </Text>
                       <Text
                         className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                        size="txtChivoBold22Gray900"
+                        size="txtChivoBold22"
                       >
                         A tour of Growit automations
                       </Text>
@@ -300,7 +298,7 @@ const ResourceCenterPage = () => {
                       </Text>
                       <Text
                         className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                        size="txtChivoBold22Gray900"
+                        size="txtChivoBold22"
                       >
                         How to get support about Growly with us
                       </Text>
@@ -351,7 +349,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[32.00px] mt-2 text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       The Ultimate Guide To Customer Journey Analytics
                     </Text>
@@ -378,7 +376,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[32.00px] mt-2 text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       6 Customer Metrics That Will Help You Grow Your Business
                     </Text>
@@ -405,7 +403,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[32.00px] mt-2 text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       The difference between product analytics and marketing
                     </Text>
@@ -450,7 +448,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[32.00px] mt-2 text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Watching movies provides the best user experience
                     </Text>
@@ -477,7 +475,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[32.00px] mt-2 text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Providing reliable applications for productivity
                     </Text>
@@ -504,7 +502,7 @@ const ResourceCenterPage = () => {
                     </Text>
                     <Text
                       className="leading-[32.00px] mt-2 text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       <>
                         Build an online business—no matter what business
@@ -545,8 +543,6 @@ const ResourceCenterPage = () => {
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="sm:flex-1 sm:mt-0 my-1.5 w-[61%] sm:w-full"
                     type="email"
-                    shape="square"
-                    size="sm"
                   ></Input>
                   <Button
                     className="cursor-pointer min-w-[150px] text-base text-center"

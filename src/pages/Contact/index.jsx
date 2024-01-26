@@ -25,7 +25,7 @@ const ContactPage = () => {
                 </Text>
                 <Text
                   className="leading-[28.00px] text-bluegray-600 text-lg w-full"
-                  size="txtChivoRegular18Bluegray600"
+                  size="txtChivoRegular18"
                 >
                   Have questions about pricing, plans, or Growit? Fill out the
                   form and our product analytics expert will be in touch
@@ -35,7 +35,7 @@ const ContactPage = () => {
               <div className="flex flex-col gap-[30px] items-start justify-start w-full">
                 <Text
                   className="md:text-2xl sm:text-[22px] text-[26px] text-gray-900"
-                  size="txtChivoBold26Gray900"
+                  size="txtChivoBold26"
                 >
                   Our office
                 </Text>
@@ -48,7 +48,7 @@ const ContactPage = () => {
                     />
                     <Text
                       className="leading-[28.00px] text-bluegray-600 text-lg w-full"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Have questions about pricing, plans, or Growit? Fill out
                       the form and our product analytics expert will be in touch
@@ -159,6 +159,8 @@ const ContactPage = () => {
                       className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                       wrapClassName="border border-bluegray-200 border-solid w-full"
                       type="text"
+                      shape="round"
+                      size="sm"
                     ></Input>
                   </div>
                   <div className="flex sm:flex-1 flex-col gap-[18px] items-start justify-start rounded-md w-[47%] sm:w-full">
@@ -174,6 +176,8 @@ const ContactPage = () => {
                       className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                       wrapClassName="border border-bluegray-200 border-solid w-full"
                       type="text"
+                      shape="round"
+                      size="sm"
                     ></Input>
                   </div>
                 </div>
@@ -190,6 +194,8 @@ const ContactPage = () => {
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="border border-bluegray-200 border-solid w-full"
                     type="email"
+                    shape="round"
+                    size="sm"
                   ></Input>
                 </div>
                 <div className="flex flex-col gap-[13px] items-start justify-start mt-[29px] rounded-md w-full">
@@ -205,7 +211,8 @@ const ContactPage = () => {
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="border border-bluegray-200 border-solid w-full"
                     type="text"
-                    size="lg"
+                    shape="round"
+                    size="md"
                   ></Input>
                 </div>
                 <div className="flex flex-col gap-[17px] items-start justify-start mt-7 w-full">
@@ -231,8 +238,6 @@ const ContactPage = () => {
                       className="!placeholder:text-bluegray-600 !text-bluegray-600 p-0 text-base text-left w-full"
                       wrapClassName="sm:flex-1 sm:ml-[0] ml-[7px] w-[69%] sm:w-full"
                       type="number"
-                      shape="square"
-                      size="sm"
                     ></Input>
                   </div>
                 </div>
@@ -284,8 +289,6 @@ const ContactPage = () => {
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="sm:flex-1 sm:mt-0 my-1.5 w-[61%] sm:w-full"
                     type="email"
-                    shape="square"
-                    size="sm"
                   ></Input>
                   <Button
                     className="cursor-pointer min-w-[150px] text-base text-center"

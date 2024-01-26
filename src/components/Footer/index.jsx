@@ -25,7 +25,7 @@ const Footer = (props) => {
               <div className="flex flex-col items-start justify-start pb-[3px] w-[53%] md:w-full">
                 <Text
                   className="leading-[26.00px] ml-0.5 md:ml-[0] text-base text-white-A700 w-full"
-                  size="txtChivoRegular16WhiteA700"
+                  size="txtChivoRegular16"
                 >
                   The fastest and simple way to generate growing business
                   solutions with our products
@@ -38,7 +38,7 @@ const Footer = (props) => {
                   />
                   <Text
                     className="mb-0.5 mt-[5px] text-base text-white-A700"
-                    size="txtChivoRegular16WhiteA700"
+                    size="txtChivoRegular16"
                   >
                     hello@dhuhacreative.com
                   </Text>
@@ -51,7 +51,7 @@ const Footer = (props) => {
                   />
                   <Text
                     className="mt-[3px] text-base text-white-A700"
-                    size="txtChivoRegular16WhiteA700"
+                    size="txtChivoRegular16"
                   >
                     Join our slack community
                   </Text>

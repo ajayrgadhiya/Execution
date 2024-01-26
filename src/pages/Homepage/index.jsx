@@ -25,7 +25,7 @@ const HomepagePage = () => {
                 </Text>
                 <Text
                   className="leading-[28.00px] text-bluegray-600 text-lg w-[83%] sm:w-full"
-                  size="txtChivoRegular18Bluegray600"
+                  size="txtChivoRegular18"
                 >
                   The fastest and simple way to generate growing business
                   solutions with our products
@@ -39,9 +39,7 @@ const HomepagePage = () => {
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="sm:flex-1 sm:mt-0 my-[9px] w-3/5 sm:w-full"
                     type="email"
-                    shape="square"
                     color="gray_50"
-                    size="sm"
                   ></Input>
                   <Button
                     className="cursor-pointer min-w-[150px] sm:mt-0 my-0.5 text-base text-center"
@@ -70,7 +68,7 @@ const HomepagePage = () => {
                   </Text>
                   <Text
                     className="leading-[28.00px] text-bluegray-600 text-lg w-full"
-                    size="txtChivoRegular18Bluegray600"
+                    size="txtChivoRegular18"
                   >
                     Over 500 business powered with us
                   </Text>
@@ -84,7 +82,7 @@ const HomepagePage = () => {
                   </Text>
                   <Text
                     className="leading-[28.00px] text-bluegray-600 text-lg w-full"
-                    size="txtChivoRegular18Bluegray600"
+                    size="txtChivoRegular18"
                   >
                     Rating on google play and app store
                   </Text>
@@ -146,13 +144,13 @@ const HomepagePage = () => {
                 <div className="flex flex-col gap-4 items-center justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-center text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Login or sign up to be able use our platform
                   </Text>
                   <Text
                     className="leading-[28.00px] text-bluegray-600 text-center text-lg w-full"
-                    size="txtChivoRegular18Bluegray600"
+                    size="txtChivoRegular18"
                   >
                     You must log in first to be able to use our platform to get
                     your product analytics
@@ -173,13 +171,13 @@ const HomepagePage = () => {
                 <div className="flex flex-col gap-4 items-center justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-center text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Connect your website with just a few click
                   </Text>
                   <Text
                     className="leading-[28.00px] text-bluegray-600 text-center text-lg w-full"
-                    size="txtChivoRegular18Bluegray600"
+                    size="txtChivoRegular18"
                   >
                     Select the application you wanted to be able to connect with
                     just a few clicks
@@ -200,13 +198,13 @@ const HomepagePage = () => {
                 <div className="flex flex-col gap-4 items-center justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-center text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Take some sales data that you want
                   </Text>
                   <Text
                     className="leading-[28.00px] text-bluegray-600 text-center text-lg w-full"
-                    size="txtChivoRegular18Bluegray600"
+                    size="txtChivoRegular18"
                   >
                     You already have sales data of your product with some
                     variants you want
@@ -249,13 +247,13 @@ const HomepagePage = () => {
                       <div className="flex flex-col gap-3 items-start justify-start w-full">
                         <Text
                           className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                          size="txtChivoBold22"
+                          size="txtChivoBold22WhiteA700"
                         >
                           Real time data
                         </Text>
                         <Text
                           className="leading-[26.00px] text-base text-white-A700 w-full"
-                          size="txtChivoRegular16WhiteA700"
+                          size="txtChivoRegular16"
                         >
                           Get the data you need to make smarter decisions.
                         </Text>
@@ -270,13 +268,13 @@ const HomepagePage = () => {
                       <div className="flex flex-col gap-2 items-center justify-start w-full">
                         <Text
                           className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                          size="txtChivoBold22"
+                          size="txtChivoBold22WhiteA700"
                         >
                           Fast and Easy to use
                         </Text>
                         <Text
                           className="leading-[26.00px] text-base text-white-A700 w-full"
-                          size="txtChivoRegular16WhiteA700"
+                          size="txtChivoRegular16"
                         >
                           Easily to convert API with just a few clicks
                         </Text>
@@ -291,13 +289,13 @@ const HomepagePage = () => {
                       <div className="flex flex-col gap-2 items-start justify-start w-full">
                         <Text
                           className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                          size="txtChivoBold22"
+                          size="txtChivoBold22WhiteA700"
                         >
                           Safely Security
                         </Text>
                         <Text
                           className="leading-[26.00px] text-base text-white-A700 w-full"
-                          size="txtChivoRegular16WhiteA700"
+                          size="txtChivoRegular16"
                         >
                           All customer data is encrypted
                         </Text>
@@ -312,13 +310,13 @@ const HomepagePage = () => {
                       <div className="flex flex-col gap-2 items-start justify-start w-full">
                         <Text
                           className="text-[22px] sm:text-lg text-white-A700 md:text-xl"
-                          size="txtChivoBold22"
+                          size="txtChivoBold22WhiteA700"
                         >
                           Powerfull App
                         </Text>
                         <Text
                           className="leading-[26.00px] text-base text-white-A700 w-full"
-                          size="txtChivoRegular16WhiteA700"
+                          size="txtChivoRegular16"
                         >
                           Provide simple and minimalist dashboard
                         </Text>
@@ -348,7 +346,7 @@ const HomepagePage = () => {
                       />
                       <Text
                         className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                        size="txtChivoBold22Gray900"
+                        size="txtChivoBold22"
                       >
                         Integrated with Social Media
                       </Text>
@@ -654,8 +652,6 @@ const HomepagePage = () => {
                     className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                     wrapClassName="sm:flex-1 sm:mt-0 my-1.5 w-[61%] sm:w-full"
                     type="email"
-                    shape="square"
-                    size="sm"
                   ></Input>
                   <Button
                     className="cursor-pointer min-w-[150px] text-base text-center"

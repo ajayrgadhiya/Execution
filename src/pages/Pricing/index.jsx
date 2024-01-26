@@ -29,7 +29,7 @@ const PricingPage = () => {
               </Text>
               <Text
                 className="leading-[28.00px] text-bluegray-600 text-center text-lg w-[74%] sm:w-full"
-                size="txtChivoRegular18Bluegray600"
+                size="txtChivoRegular18"
               >
                 Start connecting with all your team and plan payment for every
                 product as you want
@@ -44,7 +44,7 @@ const PricingPage = () => {
                   <div className="flex flex-col items-center justify-start mt-10">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Free
                     </Text>
@@ -158,7 +158,7 @@ const PricingPage = () => {
                   <div className="flex flex-col items-center justify-start mt-10">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Growth
                     </Text>
@@ -203,7 +203,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-[3px] text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         <span className="text-gray-900 font-chivo text-left font-normal">
                           All features{" "}
@@ -221,7 +221,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-[3px] text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         Advanced Dashboard
                       </Text>
@@ -234,7 +234,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-[3px] text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         Unlimited Roles & Permission
                       </Text>
@@ -247,7 +247,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-1 text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         1 Enterprise integration
                       </Text>
@@ -260,7 +260,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-1 text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         External API management
                       </Text>
@@ -280,7 +280,7 @@ const PricingPage = () => {
                   <div className="flex flex-col items-center justify-start mt-[42px]">
                     <Text
                       className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                      size="txtChivoBold22Gray900"
+                      size="txtChivoBold22"
                     >
                       Enterprise
                     </Text>
@@ -321,7 +321,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-1 text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         <span className="text-gray-900 font-chivo text-left font-normal">
                           Every Thing in{" "}
@@ -339,7 +339,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-[3px] text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         Advanced access controls
                       </Text>
@@ -352,7 +352,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-[3px] text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         Dedicated SaaS solutions
                       </Text>
@@ -365,7 +365,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-1 text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         24/7 Support{" "}
                       </Text>
@@ -378,7 +378,7 @@ const PricingPage = () => {
                       />
                       <Text
                         className="mt-[3px] text-base text-gray-900"
-                        size="txtChivoRegular16"
+                        size="txtChivoRegular16Gray900"
                       >
                         Dedicated customer success
                       </Text>
@@ -431,7 +431,7 @@ const PricingPage = () => {
                 <div className="flex flex-col gap-[18px] items-start justify-start pb-0.5 w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Monitoring analytics data and alert
                   </Text>
@@ -443,7 +443,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Live view{" "}
                     </Text>
@@ -456,7 +456,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Custom dashboards
                     </Text>
@@ -469,7 +469,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Alert Notifications
                     </Text>
@@ -485,7 +485,7 @@ const PricingPage = () => {
                 <div className="flex flex-col gap-[18px] items-start justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Data collection and tracking analytics
                   </Text>
@@ -497,7 +497,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Data collection
                     </Text>
@@ -510,7 +510,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Data import
                     </Text>
@@ -523,7 +523,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Integrations
                     </Text>
@@ -539,7 +539,7 @@ const PricingPage = () => {
                 <div className="flex flex-col items-start justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Customer security and privacy
                   </Text>
@@ -551,7 +551,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Encryption
                     </Text>
@@ -564,7 +564,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Two-Factor Authentication
                     </Text>
@@ -577,7 +577,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       User device log{" "}
                     </Text>
@@ -593,7 +593,7 @@ const PricingPage = () => {
                 <div className="flex flex-col gap-[18px] items-start justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Reporting and analytics sales data
                   </Text>
@@ -605,7 +605,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Customer records
                     </Text>
@@ -618,7 +618,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Core subscription metrics{" "}
                     </Text>
@@ -631,7 +631,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Refund reports
                     </Text>
@@ -647,7 +647,7 @@ const PricingPage = () => {
                 <div className="flex flex-col items-start justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Integration with any social media
                   </Text>
@@ -659,7 +659,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Advertising platforms{" "}
                     </Text>
@@ -672,7 +672,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Customer data platforms{" "}
                     </Text>
@@ -685,7 +685,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Data governance
                     </Text>
@@ -701,7 +701,7 @@ const PricingPage = () => {
                 <div className="flex flex-col items-start justify-start w-full">
                   <Text
                     className="leading-[32.00px] text-[22px] text-gray-900 sm:text-lg md:text-xl w-full"
-                    size="txtChivoBold22Gray900"
+                    size="txtChivoBold22"
                   >
                     Task and activity tracking for dashboard
                   </Text>
@@ -713,7 +713,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Calendar integration
                     </Text>
@@ -726,7 +726,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Task automation
                     </Text>
@@ -739,7 +739,7 @@ const PricingPage = () => {
                     />
                     <Text
                       className="mt-1 text-bluegray-600 text-lg"
-                      size="txtChivoRegular18Bluegray600"
+                      size="txtChivoRegular18"
                     >
                       Task appointment setting
                     </Text>
@@ -773,7 +773,7 @@ const PricingPage = () => {
               </div>
               <Text
                 className="leading-[28.00px] text-bluegray-600 text-lg w-[84%] sm:w-full"
-                size="txtChivoRegular18Bluegray600"
+                size="txtChivoRegular18"
               >
                 We monitor our systems and code 24/7/365 with both automated
                 tools and our experienced staff to prevent and eliminate attacks
@@ -784,7 +784,7 @@ const PricingPage = () => {
             <div className="flex sm:flex-col flex-row sm:gap-10 items-start justify-between mt-[35px] w-full">
               <Text
                 className="sm:mt-0 mt-[3px] text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                size="txtChivoBold22Gray900"
+                size="txtChivoBold22"
               >
                 What happens to my data after the trial?
               </Text>
@@ -798,7 +798,7 @@ const PricingPage = () => {
             <div className="flex flex-row sm:gap-10 items-start justify-between mt-[35px] w-full">
               <Text
                 className="mt-[3px] text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                size="txtChivoBold22Gray900"
+                size="txtChivoBold22"
               >
                 Can I switch between plans?
               </Text>
@@ -812,7 +812,7 @@ const PricingPage = () => {
             <div className="flex sm:flex-col flex-row sm:gap-10 items-center justify-between mt-[35px] w-full">
               <Text
                 className="text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                size="txtChivoBold22Gray900"
+                size="txtChivoBold22"
               >
                 Is there a limit on team members?
               </Text>
@@ -826,7 +826,7 @@ const PricingPage = () => {
             <div className="flex flex-row sm:gap-10 items-start justify-between mt-[35px] w-full">
               <Text
                 className="mt-[3px] text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                size="txtChivoBold22Gray900"
+                size="txtChivoBold22"
               >
                 Can I cancel anytime?
               </Text>
@@ -840,7 +840,7 @@ const PricingPage = () => {
             <div className="flex md:flex-col flex-row md:gap-10 items-start justify-between mt-[35px] w-full">
               <Text
                 className="md:mt-0 mt-[3px] text-[22px] text-gray-900 sm:text-lg md:text-xl"
-                size="txtChivoBold22Gray900"
+                size="txtChivoBold22"
               >
                 Do you have any discounts for non-profits or educational
                 institutions?
@@ -877,8 +877,6 @@ const PricingPage = () => {
                   className="p-0 placeholder:text-bluegray-200 text-base text-left w-full"
                   wrapClassName="sm:flex-1 sm:mt-0 my-1.5 w-[61%] sm:w-full"
                   type="email"
-                  shape="square"
-                  size="sm"
                 ></Input>
                 <Button
                   className="cursor-pointer min-w-[150px] text-base text-center"
